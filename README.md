@@ -1,8 +1,13 @@
 NAME:P.SUDHARMA
+
 COMPANY:CODE ALPHA
+
 ID:CA/03/41477
+
 DOMAIN:WEB DEVELOPMENT
+
 DURATION:OCTOBER 1.10.2024-31.10.2024
+
 TASK-1(Simple Calculator)
 Overview of the project:-
 It is a Simple calculator to perform arithmetic operations using HTML,CSS,JAVASCRIPT.
